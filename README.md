@@ -8,15 +8,12 @@ This is a **kitchen-sink demo application** built with **Ionic Framework** and *
 
 **Note**: There is no actual Ionic Conference. This project is purely for demonstration purposes.
 
-👉 [Try the Live Demo](https://ionic-vue-conference-app-git-main-ionic1.vercel.app/tutorial)
-
 ## 🧱 Framework Variants
 
 This app is also available in other frameworks:
 
-- 🔗 [Ionic Angular Conference App](https://github.com/ionic-team/ionic-conference-app)
-- 🔗 [Ionic React Conference App](https://github.com/ionic-team/ionic-react-conference-app)
-- ✅ **You're viewing the Vue version**
+
+
 
 ## ✨ Features
 
