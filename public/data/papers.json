@@ -1,0 +1,52 @@
+[
+  {
+    "paperId": "CONF2024-XYZ",
+    "title": "AI for Healthcare Diagnostics",
+    "password": "alpha123",
+    "speaker": "Dr. Alice Smith",
+    "mail": "alice.smith@example.com",
+    "presentationTime": "2024-06-10 10:00",
+    "sessionPlace": "Room A, 1st Floor, Innovation Center, Main Campus",
+    "status": "oral"
+  },
+  {
+    "paperId": "CONF2024-ABC",
+    "title": "Quantum Computing: The Next Era",
+    "password": "beta456",
+    "speaker": "Prof. Bob Lee",
+    "mail": "bob.lee@example.com",
+    "presentationTime": "2024-06-10 11:00",
+    "sessionPlace": "Room B, 3rd Floor, Science Building, North Campus",
+    "status": "poster"
+  },
+  {
+    "paperId": "CONF2024-DEF",
+    "title": "Renewable Energy Storage Solutions",
+    "password": "gamma789",
+    "speaker": "Dr. Carol White",
+    "mail": "carol.white@example.com",
+    "presentationTime": "2024-06-10 12:00",
+    "sessionPlace": "Room C, 2nd Floor, Engineering Hall, South Campus",
+    "status": "oral"
+  },
+  {
+    "paperId": "CONF2024-GHI",
+    "title": "Blockchain in Supply Chain Management",
+    "password": "delta321",
+    "speaker": "Dr. David Green",
+    "mail": "david.green@example.com",
+    "presentationTime": "2024-06-10 13:00",
+    "sessionPlace": "Room D, 1st Floor, Business School, East Campus",
+    "status": "poster"
+  },
+  {
+    "paperId": "CONF2024-JKL",
+    "title": "Advances in Nanotechnology",
+    "password": "epsilon654",
+    "speaker": "Prof. Emma Brown",
+    "mail": "emma.brown@example.com",
+    "presentationTime": "2024-06-10 14:00",
+    "sessionPlace": "Room E, 4th Floor, Technology Center, West Campus",
+    "status": "oral"
+  }
+] 
